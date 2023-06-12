@@ -9,8 +9,8 @@
 		<version>3.1.0</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.birt2</groupId>
-	<artifactId>birt2</artifactId>
+	<groupId>com.jasper</groupId>
+	<artifactId>jasper</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo</name>
 	<description>Demo project for Spring Boot</description>
